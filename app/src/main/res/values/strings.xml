@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea2.3</string>
+    <string name="description_hint">Descripción...</string>
+    <string name="select_photo">Seleccionar Foto</string>
+    <string name="save">Guardar</string>
+    <string name="add_photo">Añadir Foto</string>
+</resources>
